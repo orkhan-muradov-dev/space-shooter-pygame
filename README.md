@@ -77,9 +77,9 @@ Developed as part of my **UNEC** Programming Coursework in Fall 2024.
    cd space-shooter-pygame
 
 2. Make sure you have pygame installed:
-''' bash
+```bash
 pip install pygame
-
+```
 3. Run the game:
-''' bash
+```
 python main.py
