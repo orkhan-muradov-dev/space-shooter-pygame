@@ -29,7 +29,7 @@ A fully functional **2D Space Shooter game** developed using **Python** and **Py
 - Game over screen with restart or exit options
 
 ## 🧱 Project Structure
-'''
+```
 ├── README.md
 ├── LICENSE.txt
 ├── .gitignore
@@ -37,7 +37,7 @@ A fully functional **2D Space Shooter game** developed using **Python** and **Py
 ├── images/ # Game sprites, stars, explosion frames, fonts
 ├── audio/ # Sound effects and background music
 └── main.py
-'''
+```
 
 ## 🗺️ Controls
 
