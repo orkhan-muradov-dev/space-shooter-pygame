@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+venv.bak/
+*virtualenv_support
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Other common ignored files
+# Logs
+*.log
+log/
+
+# OS-specific temporary files
+[Tt]emp/
+*~
+
+# Package specific files
+dist/
+build/
+*.egg-info/
