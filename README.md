@@ -73,7 +73,7 @@ Developed as part of my **UNEC** Programming Coursework in Fall 2024.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/space-shooter-pygame.git
+   git clone https://github.com/orkhan-muradov-dev/space-shooter-pygame.git
    cd space-shooter-pygame
 
 2. Make sure you have pygame installed:
