@@ -34,8 +34,8 @@ A fully functional **2D Space Shooter game** developed using **Python** and **Py
 ├── LICENSE.txt
 ├── .gitignore
 ├── requirements.txt
-├── images/ # Game sprites, stars, explosion frames, fonts
-├── audio/ # Sound effects and background music
+├── images/           # Game sprites, stars, explosion frames, fonts
+├── audio/            # Sound effects and background music
 └── main.py
 ```
 
