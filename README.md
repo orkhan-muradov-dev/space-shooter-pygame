@@ -73,6 +73,8 @@ The objective is to survive for as long as possible by shooting and destroying i
 - Pixel-perfect collision (`pygame.mask`)
 - Delta time and event-driven spawning
 
+---
+
 ## ✅ To Run the Game
 
 1. **Clone the repo:**
