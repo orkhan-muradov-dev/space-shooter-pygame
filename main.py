@@ -239,6 +239,9 @@ def reset_game():
     meteor_event = pygame.event.custom_type()
     pygame.time.set_timer(meteor_event, spawn_rate) # Set a timer for meteor event with the spawn rate
 
+    # Reset volume
+    sounds.game_music.set_volume(volume)
+
 def game():
     global running
 
