@@ -21,7 +21,7 @@ A fully functional **2D Space Shooter game** developed using **Python** and **Py
 
 ---
 
-🕹️ How to Play
+## 🕹️ How to Play
 The objective is to survive for as long as possible by shooting and destroying incoming meteors. Points are awarded for each meteor destroyed. The game ends if your ship is hit. The difficulty increases as you play, with more meteors spawning over time.
 
 ---
