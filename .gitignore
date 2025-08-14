@@ -37,3 +37,6 @@ build/
 
 # Pygame or Python cache
 .cache/
+
+# Screenshots
+.screenshots/
