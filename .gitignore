@@ -38,5 +38,5 @@ build/
 # Pygame or Python cache
 .cache/
 
-# Screenshots
-.screenshots/
+# User-specific high score file
+high_score.txt
