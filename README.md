@@ -187,7 +187,7 @@ git push origin feature/amazing-feature
 ---
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.txt](space-shooter-pygame/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE.txt) file for details.
 
 ---
 
