@@ -4,7 +4,7 @@
 
    <img src="./media/Gameplay.gif" width="600" alt="Space Shooter Gameplay" style="border-radius: 8px; margin: 20px 0;"/>
 
-   [🎮 Play](#-quick-start) • [🎯 Features](#-key-features) • [📸 Gallery](#-gallery) • [🏗️ Architecture](#️-architecture) • [💻 Development](#-technical-highlights)
+   [🎮 Play](#-quick-start) • [🎯 Features](#-key-features) • [📸 Gallery](#-gallery) • [🏗️ Architecture](#️-architecture) • [💻 Development](#-development)
 </div>
 
 ---
