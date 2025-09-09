@@ -10,6 +10,7 @@
 ---
 
 ## ⚡ Quick Start
+
 ```bash
 # Clone the repository
 git clone https://github.com/orkhan-muradov-dev/space-shooter-pygame.git
@@ -31,7 +32,6 @@ python -c "import pygame; print(f'✅ Pygame {pygame.version.ver} ready!')"
 ## 🎯 Game Overview
 
 **Mission:** Survive the cosmic meteor shower as long as possible!
-
 - **🎪 Dynamic Difficulty** - Meteor intensity scales with survival time
 - **🏆 High Score System** - Persistent leaderboard with local file storage
 - **🎵 Immersive Audio** - Context-aware music and sound effects
@@ -169,6 +169,7 @@ space-shooter-pygame/
 ---
 
 ## 🤝 Contributing
+
 Contributions are welcome! Whether you're fixing bugs, adding features, or improving documentation, your help is appreciated.
 ```bash
 # 1. Fork & clone your fork
@@ -187,7 +188,8 @@ git push origin feature/amazing-feature
 ---
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE.txt) file for details.
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.txt](./LICENSE.txt) file for details. This license prohibits commercial use of this project.
 
 ---
 
